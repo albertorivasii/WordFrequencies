@@ -1,5 +1,5 @@
 # Housing Market Keyword Analysis
-## Skills Used: Python - Pandas, Natural Language Processing (NLP), Seaborn
+## Skills Used: Python - Pandas, Natural Language Processing (NLP)
 ### Data From: Apartments.com descriptions.  Search limited to top 25 results from the 90007 zip code
 Steps to replicate:
 1. Download excel file listed, or choose your own data from Apartments.com.  Apartments.com does not allow web scraping, so you have to do this manually
