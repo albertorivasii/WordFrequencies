@@ -8,7 +8,7 @@ Steps to replicate:
 4. Create tokens and find frequencies
 5. Prints out top 8 words by frequency
 
-## Ways to Improve
+## Possibilities for Improvement
 - Remove company names from coming up in search ("Hive" is one of them)
 - Recreate model using ngrams (or any other technique) to account for two-word phrases such as city names ("Los Angeles") or types of rooms (e.g. "living room")
 - Increase amount of data from only top 25 listings
