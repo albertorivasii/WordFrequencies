@@ -5,6 +5,6 @@ Project during my time at Orion Housing.  Task was to find best keywords to use 
 
 ## Possibilities for Improvement
 - Remove company names from coming up in search ("Hive" is one of them)
-- Recreate model using ngrams (or any other technique) to account for two-word phrases such as city names ("Los Angeles") or types of rooms (e.g. "living room")
+- Recreate model using ngrams to account for two-word phrases such as city names ("Los Angeles") or types of rooms (e.g. "living room")
 - Increase amount of data from only top 25 listings
 - Use SEO rankings to weight words and find keywords as opposed to word frequencies
