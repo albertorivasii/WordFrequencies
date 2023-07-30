@@ -1,12 +1,7 @@
 # Housing Market Keyword Analysis
 ## Skills Used: Python - Pandas, Natural Language Processing (NLP)
 ### Data From: Apartments.com descriptions.  Search limited to top 25 results from the 90007 zip code
-Steps to replicate:
-1. Download excel file listed, or choose your own data from Apartments.com.  Apartments.com does not allow web scraping, so you have to do this manually
-2. import all necessary modules
-3. Create DataFrame object and turn description column into list
-4. Create tokens and find frequencies
-5. Prints out top 8 words by frequency
+Project during my time at Orion Housing.  Task was to find best keywords to use in rental listing descriptions for the 90007 (USC area) zip code.  I used NLTK's word tokenizer to parse through the top 25 listings for the zip code and found the top 8 I felt were what my supervisor wanted.
 
 ## Possibilities for Improvement
 - Remove company names from coming up in search ("Hive" is one of them)
